@@ -19,10 +19,10 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 8 mm Bearing Shaft        | 1        | Bearing Shaft with 8mm bore                      |
 | LED Traffic Lights        | 1        | Red yellow green LED Lights Signal Module        |
 | Buzzer                    | 1        | 5v Buzzer Module                                 |
-| 10kΩ Potentiometer        | 1        | Potentiometer for controlling the servo motor    |
+| 10kΩ Potentiometer        | 1        | Potentiometer for controlling the servo motor angle|
 | Small switch              | 2        | 2 Pin Small ON/OFF Switch                        |
 | Big switch                | 2        | 2 Pin Big ON/OFF Switch                          |
-| Buck Step-Down Converter  | 2        | 24V/12V to 5V 5A DC-DC Buck step-Down converter  |
+| Buck Step-Down Converter  | 1        | 24V/12V to 5V 5A DC-DC Buck step-Down converter  |
 | Power adapter             | 1        | Male DC Power adapter 2.1mm plug                 |
 | 3.7V Li-ion Battery       | 4        | Lithium-ion battery 18650 3.7V 4300mAh rechargeable|
 | 2X Battery holder         | 2        | Battery holder 2X18650 3.7V "connected in series"|
