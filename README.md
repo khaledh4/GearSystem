@@ -23,5 +23,7 @@ To build the DIY Arduino-based gear control system, you'll need the following co
 | Small switch              | 2        | 2 Pin Small ON/OFF Switch                        |
 | Big switch                | 2        | 2 Pin Big ON/OFF Switch                          |
 | Buck Step-Down Converter  | 2        | 24V/12V to 5V 5A DC-DC Buck step-Down converter  |
+| Power adapter             | 1        | Male DC Power adapter 2.1mm plug                 |
+| 3.7V Li-ion Battery       | 4        | Lithium-ion battery 18650 3.7V 4300mAh rechargeable|
 | Jumper Wires              | Several  | For wiring connections                           |
 | Breadboard                | 1        | For prototyping the circuit                      |
