@@ -16,8 +16,9 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | Arduino Uno               | 1        | The main microcontroller board                   |
 | 180 degree motor (MG995)  | 1        | Servo motor to rotate the gears                  |
 | Shaft Coupling 8x8        | 1        | 8mm-to-8mm Jaw shaft coupling converter          |
-| 60 teeth gear             | 2        | 60-tooth gear with 6mm width                     |
-| 20 teeth gear             | 1        | 20-tooth gear with 6mm width                     |
+| 60-teeth gear             | 2        | 60-teeth gear with 6mm width                     |
+| 20-teeth gear             | 1        | 20-teeth gear with 6mm width                     |
+| 8mm shaft                 | 1        | 8mm shaft for the two 60-teeth gear              |
 | 8mm Bearing Shaft         | 1        | Bearing shaft with 8mm bore                      |
 | LED Traffic Lights        | 1        | Red, yellow, and green LED traffic signal lights |
 | Buzzer                    | 1        | 5V Buzzer module                                 |
