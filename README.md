@@ -33,3 +33,4 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 2X Battery holder         | 2        | Battery holder for 2x 18650 batteries (connected in series)|
 | Jumper Wires              | Several  | For wiring connections                           |
 | Breadboard                | 1        | To expand pin connections for the Arduino        |
+| 6x25cm board              | 1        | To hold all parts together                       |
