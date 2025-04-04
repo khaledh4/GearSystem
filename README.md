@@ -19,7 +19,9 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 60-teeth gear             | 2        | 60-teeth gear with 6mm width                     |
 | 20-teeth gear             | 1        | 20-teeth gear with 6mm width                     |
 | 8mm shaft                 | 1        | 8mm shaft for the two 60-teeth gear              |
-| 8mm Bearing Shaft         | 1        | Bearing shaft with 8mm bore                      |
+| 8mm Bearing Shaft         | 2        | Bearing shaft with 8mm bore                      |
+| 12mm Bearing Shaft        | 1        | Bearing shaft with 12mm bore                     |
+| 8mm shaft hook            | 1        | Hook with 8mm shaft                              |
 | LED Traffic Lights        | 1        | Red, yellow, and green LED traffic signal lights |
 | Buzzer                    | 1        | 5V Buzzer module                                 |
 | 10kΩ Potentiometer        | 1        | Potentiometer for controlling the servo motor's angle|
