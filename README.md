@@ -1,7 +1,7 @@
 # Gear Control System
 A multi-purpose, simple DIY Arduino-based gear control system featuring multiple modes for enhanced functionality
 
-![GearSystemGIF](images/projGIF.gif)
+![GearSystemimg](images/projGIF.gif)
 
 ## Features
 - Multi-use system for multiple purposes
@@ -36,3 +36,29 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 6x25cm board              | 1        | To hold all parts together                       |
 
 ## Arduino Connection and System Overview
+
+![GearSystemimg](images/connection.png)
+
+### LED Status Indicator 🟩🟨🟥
+- **Green** : Auto mode (default)
+- **Yellow** : Manual mode
+- **Red** : Stop mode
+
+### Power Setup 🔋
+- **Arduino Power:** Powered by two 3.7V lithium-ion batteries connected in series, providing a total of 7.4V.
+- **Motor Power:** Powered by two 3.7V lithium-ion batteries connected in series and stepped down to 6.2V to meet motor requirements.
+
+### Buzzer 🔊
+- **Provides an audible beep to signal when the mode is changed.**
+
+### Switches 1️⃣/0️⃣
+- **Two on/off switches toggle Manual or/and Stop modes.** (default mode is Auto)
+
+### Potentiometer Ω
+- **Allows the user to adjust the servo motor's angle in Manual mode, translating analog input to servo angle.**
+
+### Additional Switches
+- **One switch turns the servo on/off.**
+- **One switch powers the Arduino on/off.**
+
+## Mechanical System
