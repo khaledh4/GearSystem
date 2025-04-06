@@ -62,4 +62,4 @@ These are the components I used to build the DIY Arduino-based gear control syst
 - **One switch powers the Arduino on/off.**
 
 ## Mechanical System
-![GearSystemimg](images/dimensions.png)
+![GearSystemimg](images/dimension.png)
