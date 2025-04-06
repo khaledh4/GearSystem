@@ -65,11 +65,11 @@ These are the components I used to build the DIY Arduino-based gear control syst
 ## Mechanical System
 ![GearSystemimg](images/dimension.png)
 
-### Gear System Motion
+### Gear System Motion ⚙️
 - **The motor drives a 60-teeth gear via an 8mm shaft and 8mm-to-8mm converter for added stability.**
 - **The gear rotates on a bearing shaft, transferring motion to another 60-teeth gear through a pulley belt that maintains tension for smooth motion.**
 - **The system includes a 20-teeth gear connected to a hook on the bearing shaft and rotates from the second 60-teeth gear through the same pulley belt**
-### Precise Angle control
+### Precise Angle control 📐
 - **180-degree servo motor is used to achieve precise motion control.**
 - **Since the servo motor doesn’t complete a full rotation, the system uses a 60-teeth to 20-teeth gear ratio.**
 - **This allows for a full 360° rotation by combining one complete and one half-rotation of the servo.**
