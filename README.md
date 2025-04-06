@@ -34,3 +34,5 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | Jumper Wires              | Several  | For wiring connections                           |
 | Breadboard                | 1        | To expand pin connections for the Arduino        |
 | 6x25cm board              | 1        | To hold all parts together                       |
+
+## Arduino Connection and System Overview
