@@ -21,6 +21,7 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 8mm shaft                 | 1        | 8mm shaft for the two 60-teeth gear              |
 | 8mm Bearing Shaft         | 2        | Bearing shaft with 8mm bore                      |
 | 12mm Bearing Shaft        | 1        | Bearing shaft with 12mm bore                     |
+| 6mm width Pulley belt     | 1        | Pulley belt that is suitable for the design to tight fit|
 | 8mm shaft hook            | 1        | Hook with 8mm shaft                              |
 | LED Traffic Lights        | 1        | Red, yellow, and green LED traffic signal lights |
 | Buzzer                    | 1        | 5V Buzzer module                                 |
@@ -63,3 +64,12 @@ These are the components I used to build the DIY Arduino-based gear control syst
 
 ## Mechanical System
 ![GearSystemimg](images/dimension.png)
+
+**The motor drives a 60-teeth gear via an 8mm shaft and 8mm-to-8mm converter for added stability.**
+
+**The gear rotates on a bearing shaft, transferring motion to another 60-teeth gear through a pulley belt that maintains tension for smooth motion.**
+
+Additionally, the system includes a 20-teeth gear connected to a hook on the bearing shaft for further motion transfer.
+
+Precision Control:
+To achieve precise motion control, a 180-degree servo motor is used. Since the servo motor doesn’t complete a full rotation, the system uses a 60-teeth to 20-teeth gear ratio. This allows for a full 360° rotation by combining one complete and one half-rotation of the servo.
