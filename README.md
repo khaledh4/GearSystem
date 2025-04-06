@@ -19,8 +19,8 @@ These are the components I used to build the DIY Arduino-based gear control syst
 | 60-teeth gear             | 2        | 60-teeth gear with 6mm width                     |
 | 20-teeth gear             | 1        | 20-teeth gear with 6mm width                     |
 | 8mm shaft                 | 1        | 8mm shaft for the two 60-teeth gear              |
-| 8mm Bearing Shaft         | 2        | Bearing shaft with 8mm bore                      |
-| 12mm Bearing Shaft        | 1        | Bearing shaft with 12mm bore                     |
+| 8mm Bearing Shaft         | 2        | Bearing with 8mm bore                            |
+| 12mm Bearing Shaft        | 1        | Bearing with 12mm bore                           |
 | 6mm width Pulley belt     | 1        | Pulley belt that is suitable for the design to tight fit|
 | 8mm shaft hook            | 1        | Hook with 8mm shaft                              |
 | LED Traffic Lights        | 1        | Red, yellow, and green LED traffic signal lights |
