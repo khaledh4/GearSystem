@@ -74,6 +74,6 @@ These are the components I used to build the DIY Arduino-based gear control syst
 - **Since the servo motor doesn’t complete a full rotation, the system uses a 60-teeth to 20-teeth gear ratio.**
 - **This allows for a full 360° rotation by combining one complete and one half-rotation of the servo.**
 
-## prototype
+## Prototype
 ![GearSystemimg](images/prototype2.jpg)
 ![GearSystemimg](images/prototype1.jpg)
