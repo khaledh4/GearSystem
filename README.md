@@ -77,6 +77,36 @@ These are the components I used to build the DIY Arduino-based gear control syst
 ## The Code
 👉 Full code: [code.ino](code.ino)
 
+<pre> <code> 
+Servo myservo;  
+
+const int stopPin = 12;  
+const int manualPin = 2;
+const int buzzerPin = 8;
+const int potPin = A5;
+const int greenPin = 3;
+const int yellowPin = 5;
+const int redPin = 6;
+
+bool checkConditions = false;
+
+
+
+void setup() {
+  myservo.attach(9);
+  
+  pinMode(stopPin, INPUT_PULLUP);
+  pinMode(manualPin, INPUT_PULLUP);
+
+  pinMode(buzzerPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+  pinMode(yellowPin, OUTPUT);
+  pinMode(redPin, OUTPUT);
+
+  Serial.begin(9600);
+}
+</code> </pre>
+
 ## Prototype
 ![GearSystemimg](images/prototype2.jpg)
 ![GearSystemimg](images/prototype1.jpg)
