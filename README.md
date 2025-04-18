@@ -75,5 +75,5 @@ These are the components I used to build the DIY Arduino-based gear control syst
 - **This allows for a full 360° rotation by combining one complete and one half-rotation of the servo.**
 
 ## prototype
-![GearSystemimg](images/prototype1.jpe)
-![GearSystemimg](images/prototype2.jpe)
+![GearSystemimg](images/prototype1.jpg)
+![GearSystemimg](images/prototype2.jpg)
