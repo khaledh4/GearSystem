@@ -10,9 +10,6 @@ const int greenPin = 3;
 const int yellowPin = 5;
 const int redPin = 6;
 
-int stopState = LOW;   
-int manualState = LOW;   
-
 bool checkConditions = false;
 
 
